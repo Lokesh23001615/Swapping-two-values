@@ -18,19 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-#Program to swap two values.
-#Developed by: M.Lokesh
-#RegisterNumber:23001615
-a=(input())
-b=(input())
-temp=a
-a=b
-b=temp
-print("Swapped values are:",a,b)
-
 Output:
-![Screenshot 2023-10-17 133047](https://github.com/Lokesh23001615/Swapping-two-values/assets/144979337/988bf6c7-c30d-4e4a-93dd-be6d126edb2e)
-
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
